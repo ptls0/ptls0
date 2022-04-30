@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ptls0
+- 👀 I’m interested in way too many things
+- 🌱 I’m currently learning programming in python and also doing the harvard cs50x course
+- 💞️ I’m not looking to collaborate right now
